@@ -1,0 +1,11 @@
+{
+  "_id": "ObjectId('664f1e0b84a2b6c1a0004')",
+  "class_id": "ObjectId('664f1e0b84a2b6c1a0002')",
+  "user_id": "ObjectId('664f1e0b84a2b6c1a0001')",
+  "type": "deposit",
+  "amount": 200.00,
+  "platform_gp_fee": 50.00,
+  "status": "success",
+  "method": "PromptPay",
+  "created_at": "ISODate('2026-07-06T09:35:00Z')"
+}

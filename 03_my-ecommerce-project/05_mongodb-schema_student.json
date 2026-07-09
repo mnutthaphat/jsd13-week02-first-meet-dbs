@@ -1,0 +1,18 @@
+{
+  "_id": "ObjectId('664f1e0b84a2b6c1a0002')",
+  "subject_name": "Data Science Fundamentals",
+  "preferred_days": ["Saturday", "Sunday"],
+  "preferred_time_slots": ["10:00-12:00", "13:00-15:00"],
+  "exam_date": "ISODate('2026-07-30T09:00:00Z')",
+  "tutor_id": null, 
+  "status": "open",
+  "base_price_per_hr": 400.00,
+  "participants": [
+    {
+      "student_id": "ObjectId('664f1e0b84a2b6c1a0001')",
+      "deposit_paid": false
+    }
+  ],
+  "scheduled_time": null,
+  "created_at": "ISODate('2026-07-09T14:46:00Z')"
+}

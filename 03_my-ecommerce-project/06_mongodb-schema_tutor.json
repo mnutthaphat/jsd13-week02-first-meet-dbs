@@ -1,0 +1,19 @@
+{
+  "_id": "ObjectId('664f1e0b84a2b6c1a0002')",
+  "subject_name": "Data Science Fundamentals",
+  "tutor_id": "ObjectId('664f2c00000000000000000')", 
+  "status": "matched",
+  "base_price_per_hr": 400.00,
+  "participants": [
+    {
+      "student_id": "ObjectId('664f1e0b84a2b6c1a0001')",
+      "deposit_paid": true
+    },
+    {
+      "student_id": "ObjectId('664f1e0b84a2b6c1a0003')",
+      "deposit_paid": true
+    }
+  ],
+  "scheduled_time": "ISODate('2026-07-15T13:00:00Z')",
+  "created_at": "ISODate('2026-07-06T09:30:00Z')"
+}
